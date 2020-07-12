@@ -5,6 +5,8 @@ This is a LWIR DoFP Dataset of Road Scene (LDDRS) associated with the article.
 - baidu(https://pan.baidu.com/s/1-aDyIltuozqSvLpjcisCGQ  Extraction code：1zgs)
 - google(https://drive.google.com/file/d/1a3JrDtpkBoEm_sGJJQ1ClSmczdw1KFAC/view?usp=sharing)
 
+### LDDRS
+
 - Folders:
 	- "RAW" folder : Original LWIR DoFP images of road scene with 512×640 resolution in 14 bits.
 	- "label" folder : Corresponding label of road region of 2,113 images. 1 represents road and 0 represents background.
