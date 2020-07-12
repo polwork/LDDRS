@@ -16,7 +16,7 @@ This is a LWIR DoFP Dataset of Road Scene (LDDRS) associated with the article.
 
 [1] Li, N., Zhao, Y., Pan, Q., Kong, S.G.: Demosaicking DoFP images using Newton's polynomial interpolation and polarization difference model. Optics Express 27(2), 1376–1391 (2019)
 
-=====================================================================================================
+
 
 If you have any question, please contact ：ln_neo@mail.nwpu.edu.cn
 
