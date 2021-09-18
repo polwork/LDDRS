@@ -24,5 +24,25 @@
 [1] Li, N., Zhao, Y., Pan, Q., Kong, S.G.: Demosaicking DoFP images using Newton's polynomial interpolation and polarization difference model. Optics Express 27(2), 1376–1391 (2019)
 
 
+### Citation
 
-## If you have any question, please contact ：ln_neo@mail.nwpu.edu.cn
+```
+@inproceedings{li2020full,
+  title={Full-Time Monocular Road Detection Using Zero-Distribution Prior of Angle of Polarization},
+  author={Li, Ning and Zhao, Yongqiang and Pan, Quan and Kong, Seong G and Chan, Jonathan Cheung-Wai},
+  booktitle={European Conference on Computer Vision},
+  pages={457--473},
+  year={2020},
+  organization={Springer}
+}
+@article{li2021illumination,
+  title={Illumination-invariant road detection and tracking using LWIR polarization characteristics},
+  author={Li, Ning and Zhao, Yongqiang and Pan, Quan and Kong, Seong G and Chan, Jonathan Cheung-Wai},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={180},
+  pages={357--369},
+  year={2021},
+  publisher={Elsevier}
+}
+```
+ If you have any question, please contact ：ln_neo@mail.nwpu.edu.cn
