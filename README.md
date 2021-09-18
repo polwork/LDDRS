@@ -1,6 +1,6 @@
 # Full-Time Monocular Road Detection Using Zero-Distribution Prior of Angle of Polarization. ECCV2020
 
-## We offer two ways to download the database and the codes.
+## We offer two ways to download the LDDRS dataset.
 - baidu(https://pan.baidu.com/s/1EiYgKmpPQuSLmP1VUdMlkQ     Extraction code: 2113 )
 - google(https://drive.google.com/file/d/1rkHRlwHQbkrh-NtSof5H0DNuTKQy_189/view?usp=sharing)
 
