@@ -15,7 +15,9 @@
 	- BM3D : Denoising the raw DoFP image.
 	- FFC_Polynomial_interpolation.m : A demosaicking algorithm [1] for recovering four high resolution polarization image from an input DoFP image.	
 	- IRHDRv1.m : HDR correction of the S0 image.
-- Note:
+	- polar_calibration.mexw64 ：Calibrating the intensity images and generating Stokes images
+- Note:	
+	- Before you run the codes, please put the above folders you downloaded in this root folder.
 	- The polarization transmission direction of each pixel of DoFP image is arranged as in "Pixel arrangement of DoFP image.jpg".
 	- Since our LWIR DoFP camera is based on the uncooled technique, an optical shutter is used for online recalibration purposes to compensate for disturbing influences derived from changing ambient conditions (sensor temperature stabilization is also used). So it needs to subtract the pixel response when the shutter is closed from the pixel response when the shutter is open, which may leads to negative pixel values. To avoid this, a fixed positive value is added to make the output always be positive and in a reasonable range. Therefore, we cannot obtain the absolute value of DoP but a relative value of DoP, while the calculation of true AoP is not affected. However, we can still use it for quantitative analysis of the DoP characteristics of the objects.
 
